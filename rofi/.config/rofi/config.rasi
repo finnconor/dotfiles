@@ -1,0 +1,15 @@
+configuration {
+  modi: "run,drun,filebrowser";
+  columns: 1;
+  font: "terminus 10";
+  bw: 0;
+  location: 1;
+  line-margin: 0;
+  line-padding: 1;
+  separator-style: "none";
+  hide-scrollbar: true;
+  display-run: "conor@poot";
+  display-drun: "Application";
+}
+
+@theme "mytheme"
