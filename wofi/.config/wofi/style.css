@@ -11,7 +11,6 @@ window {
 
 /* Input/prompt line (top bar) */
 #input {
-  font-size: 12pt;  
   color: rgba(85,85,85,1);                 
 }
 #prompt {
