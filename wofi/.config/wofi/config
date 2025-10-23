@@ -1,0 +1,21 @@
+# Mode (wofi can only show one at a time; switch via wrapper scripts or flags)
+show=drun
+
+# Prompt text (use different prompts in wrapper scripts below)
+prompt=Application
+
+# General behaviour
+allow-images=true
+insensitive=true          # case-insensitive search
+no-actions=true           # hide right-click actions menu
+
+# Size & placement (rough match to rofi top bar)
+width=100%
+# height=100%
+#location=2              # top of screen
+xoffset=0
+yoffset=0
+
+# List sizing
+lines=10                  # like your rofi listview lines
+
